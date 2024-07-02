@@ -514,6 +514,7 @@ a {
         text-align: center;
         color: white;
         position: relative;
+        cursor: pointer;
     }
     .slider__button:before {
         box-sizing: border-box;
@@ -551,6 +552,7 @@ a {
 
     .slider__button_disabled {
         background: #D6D6D6;
+        cursor:default;
     }
 
     .slider__pages {
@@ -583,6 +585,7 @@ a {
         height: 10px;
         border-radius: 50%;
         background: #D9D9D9;
+        cursor: pointer;
     }
 
     .slider__nav:active {
@@ -1146,6 +1149,7 @@ a {
         text-align: center;
         color: white;
         position: relative;
+        cursor: pointer;
     }
     .slider__button:before {
         box-sizing: border-box;
@@ -1183,6 +1187,7 @@ a {
 
     .slider__button_disabled {
         background: #D6D6D6;
+        cursor: default;
     }
 
     .slider__pages {
