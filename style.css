@@ -36,7 +36,7 @@ a {
     .header {
         width: 100%;
         height: 774px;
-        background: -400px 1px url("./src/images/mobile\ header.webp");
+        background-image: -400px 1px url("./src/images/mobile\ header.webp");
     }
     
     @media (orientation: landscape) {
